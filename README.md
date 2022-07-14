@@ -6,3 +6,7 @@ Ricardo Alves Almeida Moreira
 
 Welcome to my first repository.
 
+
+## local Development
+
+1. Open index.html in your browser
